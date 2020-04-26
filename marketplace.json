@@ -1,0 +1,48 @@
+{
+  "marketplaceName": {
+    "de": "Schulung: Importe mit plentymarkets",
+    "en": "Training: Imports with plentymarkets"
+  },
+  "price": 101.15,
+  "shortDescription": {
+    "de": "Schnelle Hilfe für deine Datenimporte. Maßgeschneiderte Lösungen garantiert!",
+    "en": "Individual help for your data imports. Customized solutions guaranteed!"
+  },
+  "categories": [
+    "3888"
+  ],
+  "keywords": [
+    "ElasticSync",
+    "Sync",
+    "Elastic Sync",
+    "Elastic",
+    "Import",
+    "Export",
+    "Formatdesigner",
+    "Elastischer Export",
+    "Elastic Export",
+    "Format Designer",
+    "Format",
+    "Designer",
+    "Daten",
+    "Datenimport",
+    "Datenexport",
+    "Data",
+    "Schulung",
+    "Training",
+    "Excel",
+    "Data",
+    "Artikelanlage",
+    "Controlling",
+    "Statistik",
+    "Artikelexport",
+    "Artikelimport",
+    "CSV",
+    "Exel",
+    "importieren",
+    "exportieren",
+    "Produktanlage",
+    "Produktimport",
+    "Statistics"
+  ]
+}
